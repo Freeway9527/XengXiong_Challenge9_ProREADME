@@ -21,7 +21,11 @@ test
 ## Usage
 test
 
+* Screen Shot of application:
+
 ![Alt text](Image/Screenshot.png)
+
+* Link to video:
 
 https://drive.google.com/file/d/1-JGp_XwHOXYkCvtjg-nVw9koGNnEWwBw/view
 
