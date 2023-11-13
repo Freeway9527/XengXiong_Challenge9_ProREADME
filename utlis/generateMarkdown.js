@@ -23,7 +23,7 @@ function renderLicenseBadge(license) {
       return '![Static Badge](https://img.shields.io/badge/License%20-Eclipse%20Public-blue)';
     }
     if (license === 'Unlicense'){
-      return '![Static Badge](https://img.shields.io/badge/License%20-None-blue)';
+      return '';
     }
   }
 

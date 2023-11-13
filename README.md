@@ -1,9 +1,9 @@
 
-# Module 9 Challenge
+# Module 9 Chellenge Professional README.md
 ![Static Badge](https://img.shields.io/badge/License-MIT-blue) 
 
 ## Description
-Generating a professional README
+Generating a README.md
 
 
 ## Table of Contents
@@ -16,33 +16,26 @@ Generating a professional README
 7. [Contact](#contact)
 
 ## Installation
-test
+none
 
 ## Usage
-test
-
-* Screen Shot of application:
-
+none
 ![Alt text](Image/Screenshot.png)
 
-* Link to video:
-
-https://drive.google.com/file/d/1-JGp_XwHOXYkCvtjg-nVw9koGNnEWwBw/view
-
 ## Tests
-test
+none
 
 ## Credits
-test
+none
 
 ## Contribution
-test
+none
 
 ## License
 This project is licensed under the MIT.
 
 
 ## Contact
-- GitHub: [test](https://github.com/test)
-- Email: test
+- GitHub: [freeway9527](https://github.com/freeway9527)
+- Email: xiongxeng@gmail.com
 
