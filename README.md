@@ -1,6 +1,6 @@
 
 # Module 9 Challenge
-![Static Badge](https://img.shields.io/badge/License-Apache%202.0-blue) 
+![Static Badge](https://img.shields.io/badge/License-MIT-blue) 
 
 ## Description
 Genrating a professional README.md
@@ -35,7 +35,7 @@ none
 none
 
 ## License
-This project is licensed under the Apache License 2.0.
+This project is licensed under the MIT License.
 
 
 ## Contact
